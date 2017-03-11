@@ -1,0 +1,9 @@
+.\glcd_nwt.o: ..\_Module\GLCD_NWT.c
+.\glcd_nwt.o: ..\_Module\GLCD_NWT.h
+.\glcd_nwt.o: ..\_Module\..\_Driver\BoardConfig.h
+.\glcd_nwt.o: C:\Programs\CAEE\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\glcd_nwt.o: ..\_Module\..\_Driver\..\_Driver\NUC1xx.h
+.\glcd_nwt.o: ..\_Module\..\_Driver\..\_Driver\core_cm0.h
+.\glcd_nwt.o: ..\_Module\..\_Driver\..\_Driver\Driver_M_Dongle.h
+.\glcd_nwt.o: ..\_Module\..\_Driver\..\_Driver\BoardConfig.h
+.\glcd_nwt.o: ..\_Module\GLCD_Font_7x5.h

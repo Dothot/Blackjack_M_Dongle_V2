@@ -1,0 +1,45 @@
+Dependencies for Project 'NWT', Target 'NUC130VE3AN': (DO NOT MODIFY !)
+F (.\Project.c)(0x55099670)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -o .\project.o --omf_browse .\project.crf --depend .\project.d)
+I (..\_Driver\BoardConfig.h)(0x52DBED52)
+I (C:\Programs\CAEE\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\_Driver\..\_Driver\NUC1xx.h)(0x52EF67FA)
+I (..\_Driver\..\_Driver\core_cm0.h)(0x4F619694)
+I (..\_Driver\..\_Driver\Driver_M_Dongle.h)(0x52F0A5BD)
+I (..\_Driver\..\_Driver\BoardConfig.h)(0x52DBED52)
+I (..\_Module\GLCD_NWT.h)(0x52EF74AE)
+I (..\_Module\M_DONGLE_NWT.h)(0x521610D5)
+I (C:\Programs\CAEE\Keil\ARM\ARMCC\include\stdlib.h)(0x51C80BA4)
+I (init.h)(0x50F958B4)
+F (.\init.c)(0x52F4E4C9)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -o .\init.o --omf_browse .\init.crf --depend .\init.d)
+I (init.h)(0x50F958B4)
+I (..\_Driver\BoardConfig.h)(0x52DBED52)
+I (C:\Programs\CAEE\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\_Driver\..\_Driver\NUC1xx.h)(0x52EF67FA)
+I (..\_Driver\..\_Driver\core_cm0.h)(0x4F619694)
+I (..\_Driver\..\_Driver\Driver_M_Dongle.h)(0x52F0A5BD)
+I (..\_Driver\..\_Driver\BoardConfig.h)(0x52DBED52)
+F (.\startup_NUC1xx.s)(0x5140874A)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork --list .\startup_nuc1xx.lst --xref -o .\startup_nuc1xx.o --depend .\startup_nuc1xx.d)
+F (..\_Driver\Driver_M_Dongle.c)(0x52EF578C)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -o .\driver_m_dongle.o --omf_browse .\driver_m_dongle.crf --depend .\driver_m_dongle.d)
+I (..\_Driver\NUC1xx.h)(0x52EF67FA)
+I (..\_Driver\core_cm0.h)(0x4F619694)
+I (C:\Programs\CAEE\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\_Driver\Driver_M_Dongle.h)(0x52F0A5BD)
+I (..\_Driver\BoardConfig.h)(0x52DBED52)
+I (..\_Driver\..\_Driver\Driver_M_Dongle.h)(0x52F0A5BD)
+F (..\_Module\GLCD_NWT.c)(0x52EF7691)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -o .\glcd_nwt.o --omf_browse .\glcd_nwt.crf --depend .\glcd_nwt.d)
+I (..\_Module\GLCD_NWT.h)(0x52EF74AE)
+I (..\_Module\..\_Driver\BoardConfig.h)(0x52DBED52)
+I (C:\Programs\CAEE\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\_Module\..\_Driver\..\_Driver\NUC1xx.h)(0x52EF67FA)
+I (..\_Module\..\_Driver\..\_Driver\core_cm0.h)(0x4F619694)
+I (..\_Module\..\_Driver\..\_Driver\Driver_M_Dongle.h)(0x52F0A5BD)
+I (..\_Module\..\_Driver\..\_Driver\BoardConfig.h)(0x52DBED52)
+I (..\_Module\GLCD_Font_7x5.h)(0x522C410A)
+F (..\_Module\M_DONGLE_NWT.c)(0x52B43ABE)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -o .\m_dongle_nwt.o --omf_browse .\m_dongle_nwt.crf --depend .\m_dongle_nwt.d)
+I (..\_Module\M_DONGLE_NWT.h)(0x521610D5)
+I (..\_Module\..\_Driver\BoardConfig.h)(0x52DBED52)
+I (C:\Programs\CAEE\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\_Module\..\_Driver\..\_Driver\NUC1xx.h)(0x52EF67FA)
+I (..\_Module\..\_Driver\..\_Driver\core_cm0.h)(0x4F619694)
+I (..\_Module\..\_Driver\..\_Driver\Driver_M_Dongle.h)(0x52F0A5BD)
+I (..\_Module\..\_Driver\..\_Driver\BoardConfig.h)(0x52DBED52)
